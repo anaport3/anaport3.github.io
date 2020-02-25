@@ -89,7 +89,7 @@ li {
 
 .button:hover {
   background-color: white;
-  color: green;
+  color: pink;
 }
 
 .header {
@@ -115,7 +115,7 @@ li {
 
 .header a:hover {
   background-color: white;
-  color: blue;
+  color: pink;
 }
 
 @media screen and (max-width: 500px) {
