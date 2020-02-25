@@ -25,13 +25,13 @@ img {
 .text {
   text-align: center;
   position: centre;
-  top: 60%;
-  left: 60%;
+  top:50%;
+  left: 50%;
   transform: translate(-50%, -50%);
 }
 
 h1 {
-  text-align: justify;
+  text-align: bottom;
   color: pink;
   font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
@@ -56,7 +56,7 @@ h4 {
 }
 
 p {
-  text-align: justify;
+  text-align: centre;
   color: black;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
@@ -137,8 +137,8 @@ li {
   display: grid;
   grid-template-areas:
     'menu main main main right right';
-  grid-gap: 10px;
-  padding: 10px;
+  grid-gap: 30px;
+  padding: 30px;
 }
 
 .grid-container > div {
