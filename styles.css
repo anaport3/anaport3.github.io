@@ -11,11 +11,11 @@ body {
 img {
   background-image: url("/images/lady pink.jpg");
   display: block;
-  margin-left: 10px;
-  margin-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 100%;
   height: auto; 
-  /*background-position: bottom;
+  /*background-position: centre;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;*/
