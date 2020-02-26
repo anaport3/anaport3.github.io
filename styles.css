@@ -24,14 +24,14 @@ img {
 /* Place text in the middle of the image */
 .text {
   text-align: center;
-  position: centre;
+  position: absolute;
   top:50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 h1 {
-  text-align: bottom;
+  text-align: centre;
   color: pink;
   font: 60px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
